@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+}
+
+#expandedImg{
+  border-radius: 10px;
+  border: solid 2px limegreen;
+}
+.img{
+  border-radius: 10px;
+  border: solid 2px limegreen;
+}
